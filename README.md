@@ -1,6 +1,6 @@
 ## PRIMEIRA APLICAÇÃO PARA GERENCIAR ESTADOS GLOBAIS UTLIZANDO REDUX
 
-
+<img src="https://redux.js.org/img/redux-logo-landscape.png">
 
 ## Para rodar a api e aplicação e necessario rodar os seguintes comandos:
 
